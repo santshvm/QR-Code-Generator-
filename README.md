@@ -49,7 +49,18 @@ The application then prompts you to enter a valid URL. After entering the URL, t
 
 ### Screenshots: 
 
+<img width="1335" alt="Screenshot 2023-09-23 at 7 10 41 PM" src="https://github.com/santshvm/QR-Code-Generator-/assets/70855191/3d2685cc-5daf-4299-9520-88cea9b52512">
 
+<br> <br> 
+
+![image](https://github.com/santshvm/QR-Code-Generator-/assets/70855191/fe5b5afc-d02f-4b75-bd3c-1aaee32de85b)
+<br> <br>
+
+
+
+<img width="998" alt="Screenshot 2023-09-23 at 7 10 59 PM" src="https://github.com/santshvm/QR-Code-Generator-/assets/70855191/13f1a6e5-361e-4a1d-8f29-26aaf0a7379c">
+
+<br> <br> 
 
 
 ## Dependencies:
