@@ -97,8 +97,8 @@ The Node.js QR Code Generator project offers a practical solution for generating
 ## Useful Resources
 
 - [Inquirer.js](https://www.npmjs.com/package/inquirer): A collection of common interactive command line user interfaces.
-- [qr-image]([https://reactjs.org/](https://www.npmjs.com/package/qr-image)): QR Code generator.
-- [fs]([https://github.com/axios/axios](https://nodejs.org/api/fs.html)): File system documentation.
+- [qr-image](https://www.npmjs.com/package/qr-image): QR Code generator.
+- [fs](https://nodejs.org/api/fs.html): File system documentation.
 
 <hr> 
  
