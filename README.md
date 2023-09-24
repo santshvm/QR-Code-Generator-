@@ -73,6 +73,18 @@ qr-image: The qr-image package is responsible for generating the QR code image b
 
 Users can install these dependencies conveniently using npm, as outlined in the installation instructions.
 
+## Future Enhancements
+
+While the current version of the application focuses on the backend and functionality, the user experience needs to be enhanced by building a frontend user interface. Here are some of the planned improvements:
+
+- [ ] Create a user-friendly and intuitive web-based interface.
+- [ ] Implement responsive design to ensure compatibility across various devices.
+- [ ] Enhance the application's visual appeal with modern UI components.
+- [ ] Improve accessibility and usability for a wider range of users.
+
+
+
+
 ## Conclusion:
 
 The Node.js QR Code Generator project offers a practical solution for generating QR codes from URLs, making it suitable for a variety of applications, including marketing, information sharing, and more. Its user-friendly CLI and straightforward installation process make it accessible to a broad audience of users and contributors.
