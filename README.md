@@ -4,7 +4,7 @@ A terminal-based application that generates QR codes for URLs and saves them as 
 
 ## Synopsis 
 
-The QR Code Generator is a command-line application developed in Node.js that enables users to effortlessly generate QR codes for URLs. It provides a convenient and efficient way to create QR codes, allowing users to specify the URL they want to encode and customize the output file name. The generated QR code image is saved in the project directory in PNG format, making it easily accessible for various use cases.
+The QR Code Generator is a command-line application developed in Node.js that enables users to effortlessly generate QR codes for URLs. It provides a convenient and efficient way to create QR codes, allowing users to specify the URL they want to encode. The generated QR code image is saved in the project directory in PNG format, making it easily accessible for various use cases.
 
 ## Key Features:
 
@@ -38,7 +38,7 @@ npm i inquirer qr-image
 
 ## Usage:
 
-To generate a QR code, users simply run the application from the terminal. They are prompted to enter the URL they wish to encode and specify the output file name. The application then processes the input and generates the QR code image, which is saved in the project directory. 
+To generate a QR code, users simply run the application from the terminal. They are prompted to enter the URL they wish to encode in the terminal. The application then processes the input and generates the QR code image, which is saved in the project directory. 
 
 To run the application from the terminal: 
 
