@@ -50,15 +50,20 @@ The application then prompts you to enter a valid URL. After entering the URL, t
 ### Screenshots: 
 
 <img width="1335" alt="Screenshot 2023-09-23 at 7 10 41 PM" src="https://github.com/santshvm/QR-Code-Generator-/assets/70855191/3d2685cc-5daf-4299-9520-88cea9b52512">
+<em>the user enters the URL in the terminal </em>
+
 
 <br> <br> 
 
 ![image](https://github.com/santshvm/QR-Code-Generator-/assets/70855191/fe5b5afc-d02f-4b75-bd3c-1aaee32de85b)
+<br>
+*after entering the URL and hitting enter, the qr-code image is generated in png format and saved in the file named qr_code.png* 
 <br> <br>
 
 
 
 <img width="998" alt="Screenshot 2023-09-23 at 7 10 59 PM" src="https://github.com/santshvm/QR-Code-Generator-/assets/70855191/13f1a6e5-361e-4a1d-8f29-26aaf0a7379c">
+<em>the file contains the qr code generated for the URL entered by the user</em> 
 
 <br> <br> 
 
@@ -88,3 +93,12 @@ While the current version of the application focuses on the backend and function
 ## Conclusion:
 
 The Node.js QR Code Generator project offers a practical solution for generating QR codes from URLs, making it suitable for a variety of applications, including marketing, information sharing, and more. Its user-friendly CLI and straightforward installation process make it accessible to a broad audience of users and contributors.
+
+## Useful Resources
+
+- [Inquirer.js](https://www.npmjs.com/package/inquirer): A collection of common interactive command line user interfaces.
+- [qr-image]([https://reactjs.org/](https://www.npmjs.com/package/qr-image)): QR Code generator.
+- [fs]([https://github.com/axios/axios](https://nodejs.org/api/fs.html)): File system documentation.
+
+<hr> 
+ 
